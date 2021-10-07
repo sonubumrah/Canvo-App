@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Convo</string>
+    <string name="welcome_in_convo_app">Welcome in Convo App</string>
+    <string name="c_k"><![CDATA[C-->K]]></string>
+    <string name="k_c">K--C</string>
+    <string name="f_c"><![CDATA[F-->C]]></string>
+    <string name="c_f"><![CDATA[C-->F]]></string>
+    <string name="f_k"><![CDATA[F-->K]]></string>
+    <string name="k_f"><![CDATA[K-->F]]></string>
+    <string name="close_drawer">close drawer</string>
+    <string name="open_drawer">open drawer</string>
+    <string name="sonu_yadav">SONU YADAV</string>
+    <string name="_8579995371">8579995371</string>
+    <string name="dashboard">Dashboard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_temperature">Change Temperature</string>
+    <string name="c_k_conversion"><![CDATA[C-->K Conversion]]></string>
+    <string name="enter_temperature_in_celsius">Enter Temperature in celsius</string>
+    <string name="next">Next</string>
+    <string name="temperature_in_celsius">temperature in celsius</string>
+    <string name="temperature_in_fahrenheit">Temperature in Fahrenheit</string>
+    <string name="temperature_in_kelvin">Temperature in Kelvin</string>
+    <string name="enter_temperature_in_fahrenheit">Enter Temperature in Fahrenheit</string>
+    <string name="enter_temperature_in_kelvin">Enter Temperature in Kelvin</string>
+</resources>

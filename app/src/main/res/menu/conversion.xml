@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/dashboard"
+        android:title="@string/dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"/>
+    <item
+        android:id="@+id/CK"
+        android:title="@string/c_k"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24"
+
+        />
+    <item
+        android:id="@+id/KC"
+        android:title="@string/k_c"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24"
+        />
+    <item
+        android:id="@+id/FC"
+        android:title="@string/f_c"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24"
+        />
+    <item
+        android:id="@+id/CF"
+        android:title="@string/c_f"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24"
+        />
+    <item
+        android:id="@+id/FK"
+        android:title="@string/f_k"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24"
+        />
+    <item
+        android:id="@+id/KF"
+        android:title="@string/k_f"
+        android:icon="@drawable/ic_baseline_arrow_drop_up_24"
+        />
+</group>
+
+</menu>
